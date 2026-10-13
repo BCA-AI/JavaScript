@@ -1,0 +1,22 @@
+• console.log()
+• alert()
+• prompt()
+• Template Literals
+• Debugging with Chrome DevTools
+• Breakpoints
+• Console methods (table, warn, error)
+• Writing readable JavaScript
+
+
+#JavaScript Foundations II
+Functions: Declarations, Expressions & Parameters 
+              • Why functions are used for decomposition and reuse
+              • Function declaration syntax and invocation
+              • Function expressions stored in variables
+              • Parameters versus arguments
+              • Default parameters and fallback values
+              • Return statements and returning values
+              • Function naming and single-responsibility practices
+              • Tracing function calls with the debugger
+              
+
